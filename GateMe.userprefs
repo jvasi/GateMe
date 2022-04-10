@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="GateMe.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleARCore\SDK\Scripts\Editor\AndroidDependenciesHelper.cs">
+    <Files>
+      <File FileName="Assets\GoogleARCore\SDK\Scripts\Editor\AndroidDependenciesHelper.cs" Line="18" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
