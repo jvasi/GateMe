@@ -38,6 +38,7 @@ public class NavigationController : MonoBehaviour
             {
                 Debug.Log("Try moving away for obstacles (optionally recalibrate)");
             }
+            Debug.Log("========== Updatingg line");
             line.positionCount = path.corners.Length;
             line.SetPositions(path.corners);
             line.enabled = true;
